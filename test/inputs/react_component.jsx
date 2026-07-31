@@ -1,7 +1,12 @@
 export default React.createClass({
-  render: function() {
+  render: function () {
+    try {
+
+    } catch {
+      console.log("test")
+    }
     return (
-      <div attr={gettext('attr')} {...{spread: gettext('spread')}}>
+      <div attr={gettext('attr')} {...{ spread: gettext('spread') }}>
         {gettext('child component')}
         <div>
           {gettext('nested child component')}
