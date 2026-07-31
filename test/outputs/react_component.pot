@@ -1,19 +1,19 @@
-#: inputs/react_component.jsx:4
+#: inputs/react_component.jsx:9
 msgid "attr"
 msgstr ""
 
-#: inputs/react_component.jsx:4
+#: inputs/react_component.jsx:9
 msgid "spread"
 msgstr ""
 
-#: inputs/react_component.jsx:5
+#: inputs/react_component.jsx:10
 msgid "child component"
 msgstr ""
 
-#: inputs/react_component.jsx:7
+#: inputs/react_component.jsx:12
 msgid "nested child component"
 msgstr ""
 
-#: inputs/react_component.jsx:11
+#: inputs/react_component.jsx:16
 msgid "component with boolean attribute"
 msgstr ""
