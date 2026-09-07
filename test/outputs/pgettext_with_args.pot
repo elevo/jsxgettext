@@ -1,0 +1,16 @@
+#: inputs/pgettext_with_args.js:1
+msgctxt "context"
+msgid "I have %s items"
+msgstr ""
+
+#: inputs/pgettext_with_args.js:2
+msgctxt "context2"
+msgid "Hello %s and %s"
+msgstr ""
+
+#: inputs/pgettext_with_args.js:3
+msgctxt "context3"
+msgid "I have %s item"
+msgid_plural "I have %s items"
+msgstr[0] ""
+msgstr[1] ""
